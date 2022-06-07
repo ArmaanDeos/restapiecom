@@ -4,7 +4,7 @@
   "description": "rest api for ecom app",
   "main": "index.js",
   "scripts": {
-    "starts": "nodemon index.js",
+    "start": "nodemon index.js",
     "dev": "nodemon index.js"  },
     "repository": {
       "type": "git",
