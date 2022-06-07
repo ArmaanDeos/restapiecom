@@ -1,0 +1,19 @@
+{
+  "name": "restapi",
+  "version": "1.0.0",
+  "description": "rest api for ecom app",
+  "main": "index.js",
+  "scripts": {
+    "starts": "nodemon index.js",
+    "dev": "nodemon index.js"  },
+  "author": "armaandeveloper",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.0",
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.1",
+    "express": "^4.18.1",
+    "mongodb": "^4.7.0",
+    "nodemon": "^2.0.16"
+  }
+}
