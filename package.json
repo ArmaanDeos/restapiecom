@@ -6,6 +6,13 @@
   "scripts": {
     "starts": "nodemon index.js",
     "dev": "nodemon index.js"  },
+    "repository": {
+      "type": "git",
+      "url": "(https://github.com/ArmaanDeos/restapiecom)"
+  },
+  "keywords": [
+      "node"
+  ],
   "author": "armaandeveloper",
   "license": "ISC",
   "dependencies": {
